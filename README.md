@@ -46,16 +46,20 @@ The primary goal is to build a functional Minesweeper game that runs in the Java
 
 ## Additions & Improvements
 - [ ] Addition of ASCII art to enhance visual appeal
+- [ ] Creating different colors for numbers in CLI
 - [ ] Add suggested vectors to simplify code
 - [ ] Provide a key of directions under the title
 - [ ] Implement user-configurable settings for mines, sign-in, grid size and levels of difficulty
 - [ ] Provide ability for the user to flag squares
 - [ ] Track wins and losses via a file
 - [ ] Expand to a web application for broader accessibility
+- [ ] Write explanation of important files and functions into README
+- [ ] Add a timer system
+
 
 
 ## Learning Highlights
-- New skills and knowledge gained from the project
+- Designed with a fundamental OOP approach
 
 
 ## Change Logs
